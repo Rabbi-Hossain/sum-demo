@@ -1,0 +1,10 @@
+.main-container{
+    background-color: red;
+}
+.main-container h2{
+    font-size:xx-large;
+}
+.main-container button{
+    background-color: aquamarine;
+    padding: 20px;
+}
